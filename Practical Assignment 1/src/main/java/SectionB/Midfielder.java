@@ -1,0 +1,15 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package SectionB;
+
+/**
+ *
+ * @author lab_services_student
+ */
+public class Midfielder extends Player{
+    public Midfielder(String name, String position, int number){
+       super(name, "Forward", number);
+    }
+}
